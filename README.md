@@ -1,7 +1,9 @@
 # 🎬 Media Analytics ML Dashboard
 
 An end-to-end Machine Learning project for Customer Churn Prediction and Ad Exposure Optimization for Media Analytics of a renowned Company.
-
+<p align="center">
+  <img src="ml_pipeline.png" width="800">
+</p>
 ---
 
 ## 📌 Overview
